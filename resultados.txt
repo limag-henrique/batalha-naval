@@ -1,0 +1,10 @@
+Marinheiro Rick | Navios afundados: 5 | Resultado: VENCEU
+Marinheiro nenem | Navios afundados: 2 | Resultado: PERDEU
+Marinheiro mamãe | Navios afundados: 1 | Resultado: PERDEU
+Marinheiro julin | Navios afundados: 4 | Resultado: VENCEU
+Marinheiro Barbosa | Navios afundados: 0 | Resultado: PERDEU
+Marinheiro Tonhão | Navios afundados: 1 | Resultado: PERDEU
+Marinheiro Pérola | Navios afundados: 6 | Resultado: VENCEU
+Marinheiro Rickie Rich | Navios afundados: 1 | Resultado: PERDEU
+Marinheiro Bia | Navios afundados: 8 | Resultado: PERDEU
+Marinheiro dju | Navios afundados: 4 | Resultado: PERDEU
